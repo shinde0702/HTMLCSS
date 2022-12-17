@@ -1,0 +1,86 @@
+*{margin: 0px;
+padding: 0px;}
+.main{
+    background-color:blue;
+    height: 1024px;
+    width: 750px;
+    margin:auto;
+}
+.header{
+    background-color:orangered;
+    height: 150px;
+    width: 750px;
+    float: left;
+}
+    .logo{
+      height: 150px;
+      width: 200px;
+      float: left;
+    }
+     .social{
+      background-color: beige;
+      height:100px;
+      width: 550px;
+      float: left;
+      
+    }
+    .menu{
+        background-color: purple;
+        height: 50px;
+        width: 550px;
+        float: left;
+    }
+   .menu ul a {
+    float: left;
+    display: block;
+    width: 130px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 6px;
+    text-align: center;
+    line-height: 40px;
+    background-color: white;
+
+   }
+.container{
+    background-color:green;
+    height: 824px;
+    width: 750px;
+}
+.carasoul{
+    height: 400px;
+    width: 750px;
+    background-color: grey;
+    float: left;
+}
+.carasoul img{
+    height: 400px;
+    width: 750px;
+
+}
+.gallary{
+    height: 400px;
+    width: 750px;
+    background-color: orange;
+    float: left;
+}
+.product{
+    height: 400px;
+    width: 180px;
+    background-color: red;
+    float: left;
+    border: 3.7px solid green; 
+}
+.product h2{
+    text-align: center;
+}
+.product img{
+    border: 1px solid white;
+    height: 200px;
+    width: 178px;
+}
+.footer{
+    background-color: purple;
+    height: 50px; ;
+    width: 750px;
+}

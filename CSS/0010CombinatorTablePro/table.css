@@ -1,0 +1,23 @@
+tfoot{
+    background-color: blueviolet;
+    text-align: center;
+}
+tbody{
+    background-color: green;
+    text-align: center;
+
+}
+thead{
+    background-color: aqua;
+    text-align: center;
+}
+caption{
+    background-color: bisque;
+    font-size: 45px;
+}
+
+table{
+    margin: auto;
+    border-collapse: collapse;
+    outline:5px solid red;
+}

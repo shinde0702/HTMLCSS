@@ -1,0 +1,25 @@
+.k{
+    background-color: red;
+}
+h1:hover{
+
+    background-color: blueviolet;
+    color: white;
+    font-size: 50px;
+    border: 2px solid blue;
+}
+
+a:link{
+
+background-color: yellow;
+}
+
+a:visited{
+
+    background-color: brown;
+}
+
+a:active{
+
+background-color:blue;
+}

@@ -1,0 +1,11 @@
+.one{
+    background-image: url(Images/logo.png);
+    height: 600px;
+    width: 750px;
+    background-repeat: no-repeat;
+    overflow: scroll;
+    }
+
+h1{
+    cursor:pointer;
+}

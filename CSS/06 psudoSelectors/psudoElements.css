@@ -1,0 +1,18 @@
+p::after{
+
+    content: "this is end of pargraph";
+}
+h2::after{
+
+    content: "arti";
+}
+
+h2::first-letter{
+
+    font-size: 100px;
+}
+p::first-line{
+
+    font-style: italic;
+    background-color: aqua;
+}

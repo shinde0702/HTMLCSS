@@ -1,0 +1,103 @@
+
+
+main {
+
+    height: 1000px;
+    width: 1000px;
+    background-color: aqua;
+    margin: auto;
+
+    border: 1px solid black;
+}
+
+
+header {
+
+    height: 150px;
+    width: 1000px;
+    background-color: yellow;
+  
+   
+}
+
+
+nav {
+    height: 75px;
+    width: 1000px;
+    background-color: goldenrod;
+    float: left;
+
+}
+
+aside {
+    height: 700px;
+    width: 400px;
+    background-color: blue;
+    float: left;
+
+}
+
+#one {
+
+    height: 350px;
+    width: 600px;
+ 
+    background-color: greenyellow;
+    float: left;
+}
+
+
+#two{
+
+    height: 350px;
+    width: 600px;
+    background-color: grey;
+    float: left;
+ 
+}
+
+
+/*aside{
+height: 675px;
+width: 150px;
+background-color: blue;
+float: left;
+}
+
+nav{
+height: 75px;
+width: 850px;
+background-color: bisque;
+float: left;
+}
+
+header{
+    height: 150px;
+    width: 850px;
+    background-color:yellowgreen;
+    float: left;
+}
+
+
+article{
+    height: 150px;
+    width: 850px;
+    background-color:palevioletred;
+    float: left;
+}
+
+#left{
+
+height: 300px;
+width: 425px; ;
+background-color: red;
+float: left;
+}
+
+#right{
+
+    height: 300px;
+    width: 425px; ;
+    background-color: grey;
+    float: left;
+    }*/

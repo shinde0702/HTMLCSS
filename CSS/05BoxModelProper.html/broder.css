@@ -1,0 +1,21 @@
+.main{
+height: 1024px;
+width: 750px;
+background-color: blueviolet;
+
+padding-left: 20px;
+padding-top: 50px;
+
+/*border-top:  10px solid green;
+border-bottom: 10px solid red;
+border-left: 10px ridge yellow;
+border-right: 10 dotted yellowgreen;*/
+border: 10px double pink;
+border-radius: 5px 20px 30px 40px;
+
+/*margin-left: 50px;
+margin-top: 20px;*/
+margin: 50px;
+
+
+}

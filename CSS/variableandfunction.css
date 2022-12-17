@@ -1,0 +1,33 @@
+:root {
+
+    --text-color: green;
+    --text-font: 'Courier New', Courier, monospace;
+
+
+}
+
+
+
+
+.hello {
+
+    color: var(--text-color);
+    font-family: var(--text-font);
+}
+
+.welcome {
+
+    color: var(--text-color);
+}
+
+
+.one {
+
+    color: var(--text-color);
+}
+
+.two {
+
+
+    color: var(--text-color);
+}

@@ -1,0 +1,51 @@
+.flex-container{
+border: 2px solid blue;
+display: inline-flex;
+flex-direction:row;
+flex-wrap: wrap;
+}
+
+.flex-item{
+background-color: red;
+font-size: 1.5rem;
+padding: 1.5rem;
+margin: 2px;
+}
+
+
+.item1{
+background-color: green;
+
+
+}
+.item2{
+background-color: red;
+
+    
+}
+.item3{
+background-color: aqua;
+
+    
+}
+.item4{
+background-color: blueviolet;
+
+    
+}
+
+.item5{
+background-color: orange;
+
+    
+}
+.item6{
+background-color: yellow;
+
+    
+}
+.item7{
+background-color: yellowgreen;
+
+    
+}
