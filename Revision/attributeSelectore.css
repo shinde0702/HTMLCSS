@@ -1,0 +1,38 @@
+/* tag[attribute]
+{
+propirty:value
+} */
+
+/* input[type]{
+    border: 1px solid red;
+} */
+
+/* 
+img[alt='Computer Image']{
+
+    border: 1px solid red;
+  
+} */
+
+/* img[alt~='programming']{
+
+    border: 1px solid red;
+  
+} */
+
+/* img[alt~='programming']{
+
+    border: 1px solid red;
+  
+} */
+
+
+div[class|='ab']
+{
+
+    border: 1px solid red;
+  
+}
+
+
+
