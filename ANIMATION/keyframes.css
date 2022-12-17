@@ -1,0 +1,41 @@
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    position: absolute;
+
+
+    animation-name: boxcolor;
+    animation-duration: 10s;
+    animation-delay: 2s;
+    animation-iteration-count: 5;
+
+}
+
+.heading{
+
+animation-name: boxcolor;
+animation-duration: 20s;
+animation-iteration-count: 3;
+}
+
+
+
+@keyframes boxcolor {
+
+    /* from {background-color: blue;} */
+
+    /* to   {background-color: green;} */
+
+
+    10%{background-color: green;}
+    20%{background-color: red;} 
+    30%{background-color: yellow;}
+    40%{background-color: palevioletred;}
+    50%{transform: rotate(360deg);}
+    60%{transform: translatex(200px);}  
+    70%{background-color: gold;}
+    80%{background-color: seagreen;}
+    90%{background-color: gray;}
+    100%{background-color: royalblue;}
+}

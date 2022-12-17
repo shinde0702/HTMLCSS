@@ -1,0 +1,23 @@
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    position: absolute;
+
+    /* translate: it is used to change the position of the elementa  */
+
+    /* transform: translatex(300px); */
+    /* transform: translatey(300px); */
+    /* transform: translate(300px,300px); */
+    /* transform: rotate(45deg); */
+    /* transform: scale(3,5); */
+
+
+}
+.box:hover{
+    position: absolute;
+
+    transform: scale(3,5);
+    transform: rotate(80deg);
+ }
+
